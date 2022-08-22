@@ -1,0 +1,6 @@
+git add .
+git commit -m 'git command used'
+git push
+git checkout -b brand_name
+git checkout brand_name
+git pull
